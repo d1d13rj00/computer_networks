@@ -1,6 +1,6 @@
 # Netkit labs
 
-This repository contains some basic labs to study some basic cases of computer architecture 
+This repository contains some basic labs to study computer networks 
 
 ## Setup
 
